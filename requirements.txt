@@ -1,4 +1,6 @@
 streamlit
+scikit-learn
+
 asttokens==3.0.0
 colorama==0.4.6
 comm==0.2.3
